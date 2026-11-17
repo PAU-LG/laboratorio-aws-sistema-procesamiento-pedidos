@@ -69,7 +69,7 @@ Resultado final del pedido.
 
 Registros de CloudWatch de las funciones de confirmación y auditoría.
 
-Consulta el documento: [Evidencias de funcionamiento (PDF)](evidencias/evidencias-funcionamiento.pdf).
+Consulta el documento: [Evidencias de funcionamiento (PDF)](evidencias-funcionamiento.pdf).
 
 ## Autora
 
